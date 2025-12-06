@@ -1,0 +1,5 @@
+{
+  "name": "AI Daily Pulse",
+  "description": "An intelligent AI news aggregator that scrapes, filters, and prioritizes daily AI breakthroughs using Gemini Search Grounding.",
+  "requestFramePermissions": []
+}
